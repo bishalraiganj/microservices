@@ -1,0 +1,15 @@
+
+
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to Bank cards related QA API's"
+  contactDetails:
+    name: "Cerryl Pankaj - QA Lead"
+    email: "cherryl@bank.com"
+    onCallSupport:
+      - (343) 934-3434
+      - (321) 343-3433
+
+
