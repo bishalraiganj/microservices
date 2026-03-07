@@ -6,10 +6,11 @@ build:
 
 
 loans:
-  message: "Welcome to bank loans related API's"
+  message: "Welcome to bank loans related API's hehe"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@gmail.com"
     onCallSupport:
       -(223) 343-3434
+
       -(232) 343-2334
