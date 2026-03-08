@@ -1,29 +1,13 @@
+build:
+  version: "1.0"
 
+cards:
+  message: "Welcome to Bank Cards related to production omkayi 6 github test API's"
 
-  build:
-    version: "1.0"
+  contactDetails:
+    name: "Sandra Harald - Product Owner"
+    email: "sandra@bank.com"
 
-
-  cards:
-    message: "Welcome to Bank Cards related to production omkayi  6 github test API's"
-    contactDetails:
-      name: "Sandra Harald - Product Owner"
-      email: "sandra@bank.com"
-      onCallsupport:
-       -(983) 088-8989
-
-       -(989) 897-8998
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  onCallSupport:
+    - "(983) 088-8989"
+    - "(989) 897-8998"
